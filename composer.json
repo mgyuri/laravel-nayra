@@ -28,6 +28,6 @@
         }
     },
     "require": {
-        "processmaker/nayra": "dev-master"
+        "processmaker/nayra": "^1.9"
     }
 }
