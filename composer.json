@@ -28,6 +28,6 @@
         }
     },
     "require": {
-        "processmaker/nayra": "^1.10"
+        "processmaker/nayra": "^1.9"
     }
 }
